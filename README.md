@@ -39,6 +39,7 @@ All the following are acceptable kinds of projects:
 ### Grading Rubrick
 
 1) Completeness and amount of work (50/100)
+
     w = average work per week for this class
     n = numbers of weeks given for the project
     p = people in your group.

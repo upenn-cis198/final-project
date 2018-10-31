@@ -8,7 +8,7 @@ safety, parallelism, concurrency, low-level programming, performance, etc.
 You must work in teams of 3. While group projects can be annoying (lack of communication, different work styles, someone doing nothing) it is important part of software development.
 Each group will have a generated Github Repository for their project. Please use this Repo to commit, and work on your code.
 
-At the end of the semester, you will have a chance to submit anonymous feedback about your teammates. If it is determined that work was not evenly distributed, this can affect your grade.
+At the end of the semester, you will have a chance to submit anonymous feedback about your teammates. If it is determined that work was not evenly distributed, this can affect the grades for teammates who did not do enough.
 
 ### Proposal
 Due: November 7th.
@@ -26,39 +26,37 @@ All the following are acceptable kinds of projects:
   You may be interested to contributing to some open source project in Rust. There are many crates, programs, or tools out there happy to welcome developers and contributions!
   If you're considering this option feel free to talk to me to brainstorm ideas.
 - Explore deeper topics in Rust.
-  There are many topics to explore in Rust! You can research/understand/use bleeding edge Rust Concepts to create, or report on something new. Examples of topics could be: constant generics, higher-kinded types, asynchronous IO, macros, something else?
+  There are many topics to explore in Rust! You can research/understand/use bleeding edge Rust Concepts to create, or report on something new. Examples of topics could be: constant generics, higher-kinded types, asynchronous IO, macros, something else? The biggest question with this choice: In your proposal please tell me how you're planning to do "enough" work for this option.
 
-- There are several kinds of projects that I consider boring and will not allow: using a machine learning library to train some classifier, using libraries for image processing,
-implementing most data structures. (If you have any questions or exceptions, please ask me).
+- There are several kinds of projects that in general will not be allow: using a machine learning library to train some classifier, using libraries for image processing, implementing most data structures. In general, these end up being boring, straightforward, and lack novelty. If you have any questions or exceptions you would like to do, please ask me.
 
 ### Requirements
 
 - This is an exercise in software engineering, design, and implementation. A large portion of your grade will be based on this.
-- Your project should have no warnings. You should use the linter clippy, to catch other kinds of errors.
-- Your project must include testing: unit, property based, or integration.
+- Your project should have no warnings. You must use the linter Clippy, to catch lints and fix them.
+- Your project must include testing: unit, property based, integration, etc.
 
 ### Grading Rubrick
 
-1) Completeness and amount of work
+1) Completeness and amount of work (50/100)
     w = average work per week for this class
     n = numbers of weeks given for the project
     p = people in your group.
     total work expected = w * n * p
 
     1) Complete: More than, or the expected was done for the project
-    2) Somewhat: The project is below what is expected
+    2) Somewhat: The project is below what is expected.
     3) Empty: The project is missing significant work.
 
-2) Project Difficulty
-    1) Extensive: The project required thought, skill, and work.
-    2) Medium: the work suffices but does not extend past the minimum
+2) Project Difficulty (10/100)
+    1) Extensive: The project requires significant skill and work to implement. The project allows for interesting design choices to be made.
+    2) Medium: the work suffices but does not extend past the minimum.
     3) Easy: the project is simple, straightforward, and has little chance for meaningful design decisions.
 
-3) Design of code
+3) Design of code (30/100)
     1) Great: Code is properly separated, abstracted, modular, and tested. Uses Rust features: traits and types: effectively and concisely.
        Code is documented and commented. Uses appropriate data structures.
     2) Subpar: Some abstraction, custom data types, error handling, modules. But not enough to represent excellent code.
     3) Terrible: if-else cascades, one giant function, one giant file.
-
-Other factors for your final grade:
-- Does you commit and comments from your partners reflect an appropriate amount of work?
+4) Other factors for your final grade (10/100)
+    1) Does you commit and comments from your partners reflect an appropriate amount of work?

@@ -5,13 +5,13 @@ Your project should play into the strengths of Rust. That is, you must show you 
 safety, parallelism, concurrency, low-level programming, performance, etc.
 
 ### Groups
-You must work in teams of 3. While group projects can be annoying (lack of communication, different work styles, someone doing nothing) it is important part of software development.
+For fall 2019, let's have one team of 4 and one team of 3. While group projects can be annoying (lack of communication, different work styles, someone doing nothing) it is important part of software development.
 Each group will have a generated Github Repository for their project. Please use this Repo to commit, and work on your code.
 
 At the end of the semester, you will have a chance to submit anonymous feedback about your teammates. If it is determined that work was not evenly distributed, this can affect the grades for teammates who did not do enough.
 
 ### Proposal
-Due: November 7th.
+Due: November 13th.
 
 You and your team must submit a proposal for a project. This proposal will not be graded, but I will give you feedback about your chosen project. Your proposal does not have too be
 long or detailed, but it must show that your team has a good idea for a project, complicated enough to justify a final project.

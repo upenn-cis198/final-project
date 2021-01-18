@@ -1,3 +1,5 @@
+# Warning: This assignment is not yet updated for spring 2021 and may change substantially.
+
 ## Final Project
 
 This is the final project for the class. The goal is for you to show your knowledge of Rust to implement, or contribute to Rust in a larger project than the homework allow.

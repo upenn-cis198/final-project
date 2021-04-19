@@ -122,8 +122,6 @@ All the following are acceptable kinds of projects:
     2) Subpar: Some abstraction, custom data types, error handling, modules. But not enough to represent excellent code.
     3) Terrible: if-else cascades, one giant function, one giant file.
 
-    ADDED COMMENTARY: this section could be broken down further, e.g. 3 categories code commenting, code design/separation and modularity, use of Rust features and abstractions. But this way is convenient as well.
-
-4) Group sportsmanship (10/10)
+4) Group sportsmanship (10/100)
 
   Did you have weekly video meetings with your group? Did everyone feel like they were included and had a say in the project and had ownership over their part of it?
